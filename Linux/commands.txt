@@ -1,0 +1,32 @@
+ls - list 
+cd - change directory
+~ - root
+/ - directory
+pwd - current directory
+mkdir - make directory
+rmdir - remove directory
+rm - remove
+cp - copy
+mv - move
+touch - create file
+cat - read (print file)
+head, more, less, tail - view contents of file
+sed - find and replace
+ssh - ssh connection
+whoami - show user
+ping - ping 
+tar (cf) (xf) - backup files
+clear - clear terminal history
+grep - search within file
+man - open manpages for a command
+> - write to file
+>> - overwrite to file
+| - combine commands
+nano - edit file configuration
+awk - find and isolate
+chmod - adjust permissions
+sudo - grant root privileges
+su - switch user
+add (user, group) - add a new user or new group
+crontab - scheduled task
+if - command combination (true/false)
